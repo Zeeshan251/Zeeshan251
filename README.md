@@ -3,7 +3,7 @@
 <ul type="circle">
   <li>I love creating new and unique WebApps</li>
   <li>luv ❤ problem solving.</li>
-  <li>currently exploring React </li>
+  <li>currently exploring Microservices </li>
  </ul>
 <h2>Languages & Tools I Use:</h2>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
