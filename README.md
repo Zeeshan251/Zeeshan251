@@ -20,7 +20,11 @@
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 
-<h2> GitHub Stats: </h2>
+<br>
+<br>
+<br>
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Zeeshan251&theme=dark&show_icons=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan251&theme=dark&layout=compact">
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zeeshan251&amp;theme=dark" ></a></p>
