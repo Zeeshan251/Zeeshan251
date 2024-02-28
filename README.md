@@ -2,7 +2,8 @@
 
 🧑‍💻I'm a MERN stack developer <br>
 🎯problem solving enthusiast<br>
-🍀currently exploring ILP (Instruction Level Parallelism) 
+🍀currently exploring ILP (Instruction Level Parallelism)<br>
+🤳How to reach me ? Email : zeeshan202125@gmail.com
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeeshan__251) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-zeeshan251)
 
@@ -24,5 +25,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=Zeeshan251&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
